@@ -11,3 +11,4 @@ With a passive fluency in Korean, I translated public dataset provided in Korean
 7. [Restaurant Customer](https://github.com/jingngo/beginner/tree/main/restaurant%20EDA)
 8. [COVID-19 Italy region](https://github.com/jingngo/beginner/tree/main/Italy%20Covid%20EDA)
 9. [Anime](https://github.com/jingngo/beginner/tree/main/anime)
+10. [IMDB](https://github.com/jingngo/beginner/tree/main/IMDB)
